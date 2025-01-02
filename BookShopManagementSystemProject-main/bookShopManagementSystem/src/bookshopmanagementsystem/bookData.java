@@ -8,11 +8,6 @@ package bookshopmanagementsystem;
 import java.sql.Date;
 import java.text.SimpleDateFormat;
 
-/**
- *
- * @Author     : MarcoMan
-    Support and Subscribe our channel: https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- */
 public class bookData {
     
     private Integer bookId;
