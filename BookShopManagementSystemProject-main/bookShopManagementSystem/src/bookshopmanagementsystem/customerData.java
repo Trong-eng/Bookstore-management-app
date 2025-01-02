@@ -7,10 +7,7 @@ package bookshopmanagementsystem;
 
 import java.sql.Date;
 
-/**
- *
- * @author WINDOWS 10
- */
+
 public class customerData {
     
     private Integer customerId;
