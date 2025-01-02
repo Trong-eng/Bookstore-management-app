@@ -8,11 +8,7 @@ package bookshopmanagementsystem;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @Author     : MarcoMan
-    Support and Subscribe our channel: https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- */
+
 public class database {
     
     public static Connection connectDb(){
