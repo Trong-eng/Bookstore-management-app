@@ -5,11 +5,7 @@
  */
 package bookshopmanagementsystem;
 
-/**
- *
- * @Author     : MarcoMan
-    Support and Subscribe our channel: https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- */
+
 public class getData {
     
     public static String username;
